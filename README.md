@@ -1,6 +1,6 @@
 ## Course Instructor (CS633 Parallel Computing)
 
-**Prof. Preeti Malalkar**
+**Prof. Preeti Malakar**
 
 ---
 
